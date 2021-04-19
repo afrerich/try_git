@@ -3,6 +3,7 @@ class Animal
        %w(
         Cat
         Cow
+        Crab
         Dog
         Monkey
         Zebra
