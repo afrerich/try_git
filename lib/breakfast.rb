@@ -5,6 +5,7 @@ class Breakfast
         Eggs
         Pancakes
         Waffles
+        Yogurt
        ) 
     end
 end
