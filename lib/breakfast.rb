@@ -4,6 +4,7 @@ class Breakfast
         Bacon
         Eggs
         Pancakes
+        Yogurt
        ) 
     end
 end
