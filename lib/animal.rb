@@ -4,6 +4,7 @@ class Animal
         Cat
         Dog
         Monkey
+        Zebra
        ) 
     end
 end
